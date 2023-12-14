@@ -1,0 +1,35 @@
+[INFO ] 2023-12-09 11:14:33.852 [main] StepDef - browser is launched
+[INFO ] 2023-12-09 11:14:37.080 [main] StepDef - url is opened
+[INFO ] 2023-12-09 11:14:37.518 [main] StepDef - user enter email and password
+[INFO ] 2023-12-09 11:14:45.346 [main] StepDef - user click on log in button
+[WARN ] 2023-12-09 11:14:45.382 [main] StepDef - page title matched
+[INFO ] 2023-12-09 11:19:21.507 [main] StepDef - browser is launched
+[INFO ] 2023-12-09 11:19:23.253 [main] StepDef - url is opened
+[INFO ] 2023-12-09 11:19:23.894 [main] StepDef - user enter email and password
+[INFO ] 2023-12-09 11:19:26.221 [main] StepDef - user click on log in button
+[WARN ] 2023-12-09 11:19:27.911 [main] StepDef - page title matched
+[INFO ] 2023-12-10 11:22:01.763 [main] StepDef - browser is launched
+[INFO ] 2023-12-10 11:22:03.963 [main] StepDef - url is opened
+[INFO ] 2023-12-10 11:22:04.733 [main] StepDef - user enter email and password
+[INFO ] 2023-12-10 11:22:07.547 [main] StepDef - user click on log in button
+[WARN ] 2023-12-10 11:22:09.443 [main] StepDef - page title matched
+[INFO ] 2023-12-10 11:35:04.915 [main] StepDef - browser is launched
+[INFO ] 2023-12-10 11:35:06.553 [main] StepDef - url is opened
+[INFO ] 2023-12-10 11:35:06.997 [main] StepDef - user enter email and password
+[INFO ] 2023-12-10 11:35:12.742 [main] StepDef - user click on log in button
+[WARN ] 2023-12-10 11:35:14.391 [main] StepDef - page title matched
+[INFO ] 2023-12-10 11:39:28.602 [main] StepDef - browser is launched
+[INFO ] 2023-12-10 11:39:30.522 [main] StepDef - url is opened
+[INFO ] 2023-12-10 11:39:31.015 [main] StepDef - user enter email and password
+[INFO ] 2023-12-10 11:39:34.492 [main] StepDef - user click on log in button
+[WARN ] 2023-12-10 11:39:36.496 [main] StepDef - page title matched
+[INFO ] 2023-12-11 10:42:42.031 [main] StepDef - browser is launched
+[INFO ] 2023-12-11 10:42:44.248 [main] StepDef - url is opened
+[INFO ] 2023-12-11 10:42:44.929 [main] StepDef - user enter email and password
+[INFO ] 2023-12-11 10:42:49.555 [main] StepDef - user click on log in button
+[WARN ] 2023-12-11 10:42:51.610 [main] StepDef - page title matched
+[INFO ] 2023-12-11 10:53:57.767 [main] StepDef - browser is launched
+[INFO ] 2023-12-11 10:54:00.561 [main] StepDef - url is opened
+[INFO ] 2023-12-11 10:54:01.071 [main] StepDef - user enter email and password
+[INFO ] 2023-12-11 10:54:04.552 [main] StepDef - user click on log in button
+[WARN ] 2023-12-11 10:54:06.655 [main] StepDef - page title matched
